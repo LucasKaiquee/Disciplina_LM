@@ -1,0 +1,26 @@
+.section-container {
+    width: 90%;
+    background-color: white;
+    padding: 20px;
+    margin: 5px auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+
+.section-container h3 {
+    color: rgba(0, 0, 0, .87);
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.container p {
+    color: rgba(0, 0, 0, .54);
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: -15px;
+}
+
+.description {
+    font-size: 14px;
+    color: rgba(0, 0, 0, .87);
+    margin-top: 20px;
+}
