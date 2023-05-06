@@ -13,9 +13,12 @@ th {
 table {
     width: 50%;
     min-width: 300px;
-    margin: 50px auto;
+    margin: 50px auto auto auto;
     border-top:1px solid black;
     border-bottom: 1px solid black;
+}
+
+table, td {
     border-collapse: collapse;
 }
 
