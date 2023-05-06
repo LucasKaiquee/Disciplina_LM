@@ -1,0 +1,28 @@
+td:nth-child(1){
+    text-align: left;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    font-weight: normal;
+}
+
+table {
+    width: 50%;
+    min-width: 300px;
+    margin: 50px auto;
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+}
+
+tbody tr:nth-child(2n -1) {
+    background-color: rgb(240,248,255);
+}
